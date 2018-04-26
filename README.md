@@ -1,6 +1,8 @@
 
 Give yourself a black background, with grey ext and red names.
 
+~[alt text](https://i.imgur.com/9Ec4Ks9.png "Slack Black Color Theme")
+
 ## Windows Path to Slack Desktop File
 // Paste everything below into C:\Users\USER\AppData\Local\slack\app-XXXXX\resources\app.asar.unpacked\src\static\ssb-interop.js
 
