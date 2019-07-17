@@ -1,5 +1,4 @@
 #! /usr/local/bin/zsh
-echo Ensure you have NPM and node installed
 echo Installing custom color scheme into Slack.
 JSPATH=$(pwd)"/colors.js"
 JS=$(cat $JSPATH)
